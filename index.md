@@ -1,4 +1,2 @@
-<!Doctype>
-<head>
-  <title>CustomOS Club</titile>
-</head>
+# CustomOS Club
+Welcome to the CustomOS Club page! I am very excieted to be teaching you the skills needed to build one's own operating system. The way I will be teaching this skill in this club will be in the form of lessons. These lessons will be online as time will be much easier to manage this way. I will host club meetings most of the week. I will be updating the days for when and where I will hold the club meetings. Club meetings will be not of lessons or topics, unless you request any, but it will be open for disscusion of anything, even if it is not computer related. 
